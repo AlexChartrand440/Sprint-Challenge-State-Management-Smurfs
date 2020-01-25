@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Redux Sprint Challenge",
   "main": "server.js",
+  "proxy": "http://0.0.0.0:3333",
   "scripts": {
     "start": "node server.js"
   },
